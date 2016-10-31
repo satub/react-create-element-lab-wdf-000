@@ -23,7 +23,7 @@ describe('You in React', function () {
     });
 
     it('should contain the right text', function() {
-      expect(element.props.children).toEqual('An Awesome Person');
+      expect(element.props.children).toEqual('One Internet Cat');
     });
   });
 
